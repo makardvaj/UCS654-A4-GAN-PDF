@@ -27,7 +27,7 @@ The PDF is approximated using Kernel Density Estimation (KDE) on the generated s
 After training, the Generator was used to produce a large number of samples, and the PDF was estimated using Kernel Density Estimation (KDE).
 
 ### PDF Plot
-![PDF Comparison](myimg.png)
+![PDF Comparision](https://github.com/makardvaj/UCS654-A4-GAN-PDF/blob/main/Comparision%20of%20Real%20and%20GAN-Generate%20PDF.png)
 
 ## 4. Observations
 Based on the results obtained, the following observations were made regarding the model's performance :--
